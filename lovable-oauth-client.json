@@ -1,7 +1,7 @@
 {
   "client_name": "Mustard Seed Agency - Lovable MCP Bridge",
   "client_uri": "https://github.com/HelloMustardSeed",
-  "redirect_uris": ["http://localhost:8765/callback"],
+  "redirect_uris": ["https://achievement-inspired-says-informed.trycloudflare.com/callback"],
   "token_endpoint_auth_method": "none",
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
