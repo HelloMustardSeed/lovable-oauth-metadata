@@ -1,5 +1,5 @@
 {
-  "client_name": "American Mustard Seed Agency - Lovable MCP Bridge",
+  "client_name": "Mustard Seed Agency - Lovable MCP Bridge",
   "client_uri": "https://github.com/HelloMustardSeed",
   "redirect_uris": ["http://localhost:8765/callback"],
   "token_endpoint_auth_method": "none",
